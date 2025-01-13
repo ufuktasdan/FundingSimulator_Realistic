@@ -1,7 +1,3 @@
-# FundingSimulator
-Agent Based Model of scientists exploring an epistemic landscape while being supported by a central funding body.
+This is an extension of Scientific Community simulation forked from !git clone https://github.com/shaharavin/FundingSimulator.git
 
-For more details see chapter 5 of my [PhD thesis][1].
-
-
-[1]: https://www.academia.edu/12105685/Breaking_the_grant_cycle_On_the_rational_allocation_of_public_resources_to_scientific_research_projects_PhD_thesis_
+The old code was renewed into the new python version 3.11 in Google Colab. Then the packages are reduced for the supercomputer, the Hamilton, of Durham university.
